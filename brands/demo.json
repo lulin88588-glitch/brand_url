@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "brandSlug": "demo",
+  "brandId": "demo",
+  "apps": {
+    "demo-android": {
+      "appId": "demo-android",
+      "platform": "android",
+      "bundleId": "com.example.atlas.android",
+      "revision": 3,
+      "issuedAt": "2026-10-02T15:06:34.871Z",
+      "encryptionKeyId": "demo-android-enc-v1",
+      "signingKeyId": "publisher-sign-v1",
+      "alg": "A256GCM",
+      "nonce": "yR8_FgYIdxMyzmCU",
+      "ciphertext": "90t_yB4cx00eUAuDfsRcBtSEcX8JUNuRbLCa14Z7W-DnpOItbPJpa2fItVuyWCfQYOqDcg4DubSPkdRnHLbq6sZHD0dL3d7lyYAtRfLZIY0wzlEDDhpfnJUtk5QZ-gbVHZxKf0H5wL530Hc-9h4dGZMKG17403ypPWS43pe0StWyf4DPIuXlHD3ID9rw4hvP2Ezsrwpmf8mOB2TL8nRs_AltQKi4k80QkQuyhG9EJEM6EhsbdB_WvJ0Vmv44EkDnN2__0KRr3zGKn0G0NV_FUqba4iIDguM5sjpnykV0tKrmRE5J0xElz4_JK4xCrJfdKjGAIt-wKZi8fpIkLS2r4yimvRWY_aImjkOTw4JNRhhBtBM5QCz6shvhW3E05lRapg",
+      "tag": "vinZbqCkWs2-9gjI_qDY5A",
+      "signature": "IUHXmtRU9qjbcLPQYmU0LzZQXmvDOYIE1kwkKiPcsgJVof7aH7T_HqZ2gg8lZ6E3hO7AAzgHxSAjTrIaCbkTAw"
+    },
+    "demo-ios": {
+      "appId": "demo-ios",
+      "platform": "ios",
+      "bundleId": "com.example.atlas.ios",
+      "revision": 4,
+      "issuedAt": "2026-10-02T15:06:38.138Z",
+      "encryptionKeyId": "demo-ios-enc-v1",
+      "signingKeyId": "publisher-sign-v1",
+      "alg": "A256GCM",
+      "nonce": "bDRNk0p4VTVtHFYl",
+      "ciphertext": "3Yslzjlcnt-Ugm5zcjO2DPEv5qteo08qE1wBeFjLQnC3jrUmxf42pyjkSjp2pPCSDsTMkoy-6eCLiR1jMEQB9DV6e8jlGaIwd4EjsUVWQjKc2g6pEh07vIPUHO6fRrtozzW8c79cEXRUrc3HOldvzCj0fjoyvYXA3gECBoXCXpTadqT2uuwRqM_xLPJnGADE7bmCdXNS2dF958EOaMAFK2cebIT8yDLNqg5sd9YnjktEn2Zx011vOPtoGtcTy3LTbZUaym3dy-q3c7cz8DNQ1Ni7otKtBBfXb1myNIKPU-x_eDPGDWqjgx4jqLPoyN3ro5qVJ54NX-03oRS_TbheeAds1tOdCi2MlsfAxE3NAlfIBNC6",
+      "tag": "CVny8CDh975HWN4P6ugGdQ",
+      "signature": "QKsEfUOAiV__X44kgdmn8WQp7rYvMpodLK08YVea5wHqHlCMmUMdt8G6f3EBdfq0XRZWYfrnHPraZqeLxMJTDA"
+    }
+  }
+}

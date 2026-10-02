@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "brandSlug": "aljj",
+  "brandId": "ac910850-3547-442f-88c2-e9208b805033",
+  "apps": {
+    "656c8c14-18aa-4fdd-910c-fa28eb641e8a": {
+      "appId": "656c8c14-18aa-4fdd-910c-fa28eb641e8a",
+      "platform": "ios",
+      "bundleId": "com.aljj.app",
+      "revision": 6,
+      "issuedAt": "2026-10-02T15:03:49.773Z",
+      "encryptionKeyId": "656c8c14-18aa-4fdd-910c-fa28eb641e8a-enc-v1",
+      "signingKeyId": "publisher-sign-v1",
+      "alg": "A256GCM",
+      "nonce": "AoRO_UbDubGvlXVv",
+      "ciphertext": "qqKTqde-BxGup0ePdA6xhIncWZurobgnRUYY66lw9S4khmys-3i6SdEbxHO99tT5o44i79gg-yFsPydWKNmyzE1SWNes66raC0Q-5wESIIXFfxZcjS4aYgO0wxbifY0E42nGY_A350RFUFUcGQpc5EC3nw9f_wFs7m_jatdil1wmz9waIFt6cKSzX_8w8Oa1HO-kZpnWYB-WPlos1fs4ZBlhxo1Gtals4RAuJNEgHI_FoLbveIoPEPWfL5DTSAnN8mFjl7_6XvxL65dvAjl2eGLlHOC4_9WW7XPjDdJ5b3tuQiiLYdREL3rR6Jsk3QiHM96UA8oYw4fAFBBSBPr99Ri5vo77XFfO04Oi4I_sX6F_mYgf-fIyB_8vZa0O909y7XKJ_NkJZ4iVdTvXoYOjHZfe2KrRccoJVRKDtA",
+      "tag": "FW7xSNgGcjO7y3YHe0_Azg",
+      "signature": "aL8O8V0yA6MpO8blqhP1y2M7LZf_EYqaMRpJd_3Poyy7ffO3K0K71WV05pHAXO0WDE9TkgZ4WGzBzs_aZCmNAw"
+    }
+  }
+}

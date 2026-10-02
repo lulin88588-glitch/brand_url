@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "brandSlug": "cddilex",
+  "brandId": "c989a3c7-b193-48ee-9140-9a36a65abf56",
+  "apps": {
+    "ed9a92b9-ad31-4ee7-bdac-f7cd38ebeb0c": {
+      "appId": "ed9a92b9-ad31-4ee7-bdac-f7cd38ebeb0c",
+      "platform": "android",
+      "bundleId": "com.cddilex.app",
+      "revision": 5,
+      "issuedAt": "2026-10-02T15:06:31.787Z",
+      "encryptionKeyId": "ed9a92b9-ad31-4ee7-bdac-f7cd38ebeb0c-enc-v1",
+      "signingKeyId": "publisher-sign-v1",
+      "alg": "A256GCM",
+      "nonce": "zSBiMhyK-Jf6Mdy5",
+      "ciphertext": "FEcueSk2cNQe01OSayu7Wv2h6qWiqX--avAcOFfEsGLg02QSMuIXKrYo0-eN0tyZBCsL_1vy8mhhGHFT9oCeVq4hljZb_8SXo4hCjDi0ofQmTgkG0AMxprNd4tVuwQTEtacmqQhlgPzf5CtHcyLQaReZmKh-iQsjcr4yLBgfGB7Mj8T2IGPM8F9LazOAapD5hu7HXkQnez1C4sV7t6BUfgPPbq2J4BlTsuxJkVWM-rY4hphbrDCgO4dDvF0WNSXQrCyz8-oKNTTVCzBKwLgRlx16ilGnY-Jcm8QFpYbL8cu-nHY-pCMNk3nf80wWZtx7OlPmWCSso7UPl7tL-vX312tL7wslUl3AxTGtncWxJpdF0TC5CTPasC2WTFvhUwA-1EloCkJnU6L3O1X6c5ivCNtH6k8FSqDTrqr1oOsSgPMpTjo",
+      "tag": "1Ck1ArALx3Wn1V0XlYjqbg",
+      "signature": "DZ-W0uz68ycAKiQIW2ZN3OYv-qMOKt91y1BWDRxYRota3xgnqfQBfuzgrYznMFrFEjl3tl-B1FC43DRjJ1CrAg"
+    }
+  }
+}

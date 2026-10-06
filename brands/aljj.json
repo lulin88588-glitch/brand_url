@@ -7,15 +7,15 @@
       "appId": "656c8c14-18aa-4fdd-910c-fa28eb641e8a",
       "platform": "ios",
       "bundleId": "com.aljj.app",
-      "revision": 16,
-      "issuedAt": "2026-10-06T10:49:26.830Z",
+      "revision": 18,
+      "issuedAt": "2026-10-06T10:49:47.179Z",
       "encryptionKeyId": "656c8c14-18aa-4fdd-910c-fa28eb641e8a-enc-v1",
       "signingKeyId": "publisher-sign-v1",
       "alg": "A256GCM",
-      "nonce": "7H53GNDfn6tLuDS1",
-      "ciphertext": "vFzTNWzBMr6GweU-lAMjgMS-MVAQMd5FdPVKcpBQTai2G9NQhXLL0VNgfYv3gYfxvUDxTzvowa0ajU3-5w21BKonFJZ4QdhlrxYAyrlrWhSTmm5URXBntzM5r9uUEHa9jS14kpc4sU87cTeW65hEB3UFRHizpL3mdmz0Rd6kKkO7SjRBbkRQLsnu89cckyLN5KaiG_9kLdlIeJ_sOs6Z2xy8EPZBG3gqtuJVPrYSUbz0JbGu4IAJOjc-sT_6hpHd7-pQ00iUuOH3LCCp1NUEE5GT8cY2qVq8W25r0GmUBsA6aF32FG3hXncpGH-BEARGkaEE6BdO4rnkjSb0cyQgx49G52egvD2yBORm0dqkRVioe78_9T__zDYTqL_IyJM8p-utdqpGNsTey_wqtd0GNjzvpIsKHZk31TlyiCw",
-      "tag": "bnnQZGS4RsOUH4M6dQPbNA",
-      "signature": "jGSRMXE5gvnAz4QP-iweu99JCklxR7_6mEwpHTKQO_eAG3gEt7Y_khOj_yuYtv9grfjj2bO3h-Z-2cZIKUvnDA"
+      "nonce": "jGWkVhzFalfw4cqS",
+      "ciphertext": "Vy8wtJip_WGFukswW7elQwPouBcfoFDF9L-8_2kdoFZPg2clipnZlWZvZw_2zl3H2YMMPDphW_rBAfksFJB507eF_tLSE6Ar6fdeei9OkPr7HpYiIr3X3jnN0UVPVCRPYsSQiRvU2lymW007KuwXOs7LFqqGJyGu6uHoQdM3mh_vuAOCZwQnG9XXbRZSL1cJF6MDhgrDl2s6iXAfvthk36CScfAhTykMMBsV_2beVulb7nT3RlbcF66vSM91saC4z5-_jrLSEOKCIo4MGAsWT6FKl7hgWbW27NFn9TPiMDABb_AHZ6cz3JaQAlRGrSQ0-Iw03xva1CPDCCeTVy8rlkVhhQiiy08L_xrdWvKZeNkU-8ZcjTrvFFtakPQi38KhhdlsYgzj7_B2TF49S7kUCamUF7tJUXnauxxCVaHiTpP9jWNO9x1goeitLsnxwrnsB2RHT0HL-ozVO-mkGRW1TkxiSCKdO1bnfANVY-eudcs",
+      "tag": "xTJrfIFQHcXf5sfKuglo2Q",
+      "signature": "LiSJ-xORcJJd-qt-IHQwRk4mfzCEZdAAK1AnFE8Z_ZQXUC9wMTq9oqJzzsfTVdKh8IFoKrEA9BpB2el2keynAg"
     }
   }
 }
